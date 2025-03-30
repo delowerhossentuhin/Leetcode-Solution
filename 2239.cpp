@@ -5,7 +5,7 @@ class Solution {
 public:
     int findClosestNumber(vector<int>& nums) {
 
-        vector<int> array2;
+      vector<int> array2;
       for(int i=0;i<nums.size();i++)
       {
          int a=nums[i];
